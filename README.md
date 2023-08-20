@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-blue)
+![Django](https://img.shields.io/badge/Django-green)
+![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-orange)
+![Docker](https://img.shields.io/badge/Docker-blue)
+
 # Qortex API
 
 Это API предоставляет каталог исполнителей и их альбомов с песнями.
