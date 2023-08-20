@@ -1,4 +1,4 @@
 .vscode
 .env
-__pycash__
+__pycache__
 .DS_Store
